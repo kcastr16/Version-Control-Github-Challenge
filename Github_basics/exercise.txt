@@ -1,0 +1,11 @@
+1. The terminal is a software appication that you utilize to communicate with your machine directly. It 
+can be used to copy, create, and remove folders among other things. 
+
+2. Git is utilized locally on your machine. It is utilized to create your repositories locally, meanwhile 
+Github is cloud-based. It is utilized to store and update your repositories using a cloud-based version 
+control system. They work together to make pushing and pulling your code easier and seemless.
+
+3. In Github first you need to be on the repository you would like to fork. Once there on the top right 
+side of the Github page the fork button will be located there. Once there, you click the fork button it 
+will make a copy of the repository in your Github and from there you can edit and view the repository 
+safely. 
